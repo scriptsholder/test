@@ -1,3 +1,5 @@
+local anticheat = game:GetService("Workspace").DirtsAntiExploit
+anticheat:Destroy
 --[[
  .____                  ________ ___.    _____                           __                
  |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
